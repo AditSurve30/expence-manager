@@ -52,7 +52,3 @@ Detailed View of Budget, Money Spent by the Group Members :-
 ![image](https://user-images.githubusercontent.com/41919659/168834096-90be5198-0319-4a18-98b7-29e8ded101ce.png)
 
 
-
-Link for Screenshots :- https://github.com/DhananjayThomble/Expense-Manager/blob/main/Ctrl_budget_SS.pdf
-
-Website Link :- https://ddtinfo.tech/expense_manager/
